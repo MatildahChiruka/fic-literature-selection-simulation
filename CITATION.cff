@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the archived Zenodo release and the associated manuscript. Replace the placeholders below after the release is published."
+title: "FIC Literature-Selection Simulation: Synthetic Citation Networks and Comparative Strategies"
+version: 1.0.0
+authors:
+  - family-names: "Chiruka"
+    given-names: "Matildah"
+  - family-names: "Siakola"
+    given-names: "Innocent"
+abstract: >-
+  Python code for an illustrative simulation comparing literature-selection
+  strategies on synthetic citation networks and evaluating recovery of planted
+  citation lineage. The simulation is exploratory and is not an empirical
+  validation of the conceptual FIC framework.
+keywords:
+  - literature review
+  - citation networks
+  - synthetic simulation
+  - reproducible research
