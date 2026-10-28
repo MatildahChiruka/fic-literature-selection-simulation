@@ -3,8 +3,8 @@ message: "If you use this code, please cite the archived Zenodo release and the 
 title: "FIC Literature-Selection Simulation: Synthetic Citation Networks and Comparative Strategies"
 version: 1.0.0
 authors:
-  - family-names: "Siakola"
-    given-names: "Matildah Chiruka"
+  - family-names: "Chiruka"
+    given-names: "Matildah"
   - family-names: "Siakola"
     given-names: "Innocent"
 abstract: >-
